@@ -17,4 +17,6 @@ func test() {
 	k := 3
     fmt.Println("Lại là Hello World",k,c,python,java,message,i,j,k)
 }
-
+func main() {
+	test()
+}
