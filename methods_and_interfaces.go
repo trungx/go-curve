@@ -1,0 +1,1 @@
+https://techmaster.vn/posts/34585/hoc-go-cap-toc-phan-5-methods-va-interfaces
